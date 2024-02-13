@@ -1,0 +1,23 @@
+for Hammetz:
+For Religious_ExRe comparison: Min SSIM score=-0.03644428065421431 for voxels: 4036-5045 and TRs 7-14
+Max SSIM score=0.48602164050126156 for voxels: 33297-34306 and TRS 105-112
+For Religious_Secular comparison: Min SSIM score=-0.01585552017027023 for voxels: 92828-93837 and TRs 42-49
+Max SSIM score=0.532658732757847 for voxels: 19171-20180 and TRS 105-112
+For ExRe_Secular comparison: Min SSIM score=-0.04308151514242199 for voxels: 95855-96864 and TRs 140-147
+Max SSIM score=0.49947210757165156 for voxels: 21189-22198 and TRS 105-112
+
+for Kosher:
+For Religious_ExRe comparison: Min SSIM score=-0.02683010256593725 for voxels: 4132-5165 and TRs 102-108
+Max SSIM score=0.3846327920424013 for voxels: 21693-22726 and TRS 48-54
+For Religious_Secular comparison: Min SSIM score=-0.04154460154119134 for voxels: 86772-87805 and TRs 60-66
+Max SSIM score=0.3719060153806234 for voxels: 21693-22726 and TRS 48-54
+For ExRe_Secular comparison: Min SSIM score=-0.09613636276507434 for voxels: 102267-103300 and TRs 48-54
+Max SSIM score=0.3365174902590744 for voxels: 36155-37188 and TRS 12-18
+
+for Natural:
+For Religious_ExRe comparison: Min SSIM score=-0.03969631305189598 for voxels: 89148-90117 and TRs 70-75
+Max SSIM score=0.4663007945128221 for voxels: 12597-13566 and TRS 5-10
+For Religious_Secular comparison: Min SSIM score=-0.06582472611887387 for voxels: 95931-96900 and TRs 40-45
+Max SSIM score=0.3714908790709821 for voxels: 12597-13566 and TRS 5-10
+For ExRe_Secular comparison: Min SSIM score=-0.06618480629199673 for voxels: 93993-94962 and TRs 85-90
+Max SSIM score=0.380689036207849 for voxels: 12597-13566 and TRS 5-10
