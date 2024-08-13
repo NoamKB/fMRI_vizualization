@@ -13,7 +13,7 @@ Maintaining spatial and temporal resolution in fMRI data analysis presents a sig
 Gradient maps are calculated along the time dimension to detect changes in the fMRI signal over time. The data is divided into smaller matrices to maintain signal significance. Gradient maps are plotted using Matplotlib, allowing for visualization of temporal dynamics in brain activation.
 
 ### 2. Structural Similarity Index (SSIM) Analysis
-SSIM analysis provides a measure of similarity between two images, commonly used in image processing. In this project, SSIM scores are computed for pairs of small matrices extracted from fMRI data. SSIM scores represent the similarity of brain activation patterns between different subject groups.
+SSIM considers changes in structural information, luminance, and contrast to provide a more human-perceptible measure of similarit. SSIM analysis provides a measure of similarity between two images, commonly used in image processing. In this project, SSIM scores are computed for pairs of small matrices extracted from fMRI data. SSIM scores represent the similarity of brain activation patterns between different subject groups.
 
 ## Usage
 To replicate the analysis and visualization techniques used in this project, follow these steps:
